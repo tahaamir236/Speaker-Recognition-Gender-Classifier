@@ -1,1 +1,1 @@
-# Speaker-Recognition-Gender-Classifier
+Speaker Recognition & Gender Classification using Softmax Multinomial Logistic Regression in Python (from scratch)
